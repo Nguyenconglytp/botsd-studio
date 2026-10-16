@@ -1,0 +1,11 @@
+# Build
+build/
+dist/
+__pycache__/
+*.pyc
+.venv*/
+
+# Dữ liệu/bí mật cục bộ — KHÔNG đẩy lên GitHub (config cho bản Mac lấy từ secret BOTSD_CONFIG_JSON)
+config.json
+user_usage.json
+outputs/

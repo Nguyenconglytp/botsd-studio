@@ -1,0 +1,23 @@
+﻿BOTSD STUDIO CHO macOS (Mac chip M1 – M5)
+==========================================
+
+CÀI ĐẶT
+  Kéo biểu tượng "BOTSD Studio" thả vào thư mục "Applications" ở bên cạnh.
+
+MỞ LẦN ĐẦU
+  1. Mở Launchpad hoặc thư mục Applications, double-click "BOTSD Studio".
+  2. Nếu macOS báo không thể mở vì không kiểm tra được nhà phát triển:
+       - Bấm "Done" / "OK" để đóng thông báo.
+       - Mở  System Settings (Cài đặt hệ thống)  →  Privacy & Security (Quyền riêng tư & Bảo mật).
+       - Kéo xuống dưới, bấm  "Open Anyway" (Vẫn mở)  cạnh dòng "BOTSD Studio", nhập mật khẩu máy.
+       - Bấm "Open" ở hộp thoại tiếp theo.
+     (macOS 14 trở về trước: có thể chuột phải vào app → Open → Open.)
+  3. Từ lần sau chỉ cần double-click là chạy.
+
+DỮ LIỆU
+  Video xuất ra mặc định:   thư mục Movies → BOTSD Studio
+  Cấu hình của app:         ~/Library/Application Support/BOTSD Studio
+  Có thể đổi thư mục lưu video bằng nút "Chọn Thư Mục..." trong app.
+
+GỠ CÀI ĐẶT
+  Kéo "BOTSD Studio" trong Applications vào Thùng rác.

@@ -1,0 +1,4 @@
+output_name,prompt,seconds,model,ratio,resolution,real_person_mode,real_person_deep_mode,image_paths
+sports_car,A cinematic shot of a sports car driving through Tokyo at night.,10,sd25,9:16,original,false,false,
+sunset_beach,A beautiful sunset over a tropical beach with gentle waves.,5,sd20,16:9,original,false,false,
+cyberpunk_street,Cyberpunk neon street rainy night highly detailed 4k,10,sd25,9:16,1080p,false,false,
